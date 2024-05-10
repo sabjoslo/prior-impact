@@ -1,4 +1,4 @@
-This repository contains all the code necessary to reproduce the figures in Sloman, S. J., Cavagnaro, D., and Broomell, S. B. (2023). *Knowing what to know: Implications of the choice of prior distribution on the behavior of adaptive design optimization* [Unpublished manuscript].
+This repository contains all the code necessary to reproduce the figures in Sloman, S. J., Cavagnaro, D. R., and Broomell, S. B. (2024). Knowing what to know: Implications of the choice of prior distribution on the behavior of adaptive design optimization. To appear in *Behavior Research Methods*. doi:10.3758/s13428-024-02410-7.
 
 # Dependencies
 

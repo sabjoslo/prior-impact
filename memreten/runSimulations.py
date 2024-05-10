@@ -139,5 +139,4 @@ def get_args():
         ["ado_modelest","ado_fullid","fixed"], ["pow","exp"], [False]
     )
     args_modelest = np.vstack([ x.ravel() for x in args_modelest ])
-    args_modelest = args_modelest[:,args_modelest[1,:] != args_modelest[2,:]]
     return np.hstack((args_paramest,args_modelest))
